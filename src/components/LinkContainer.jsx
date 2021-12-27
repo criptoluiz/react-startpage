@@ -54,6 +54,10 @@ const whatever = [
     link: "https://reddit.com",
   },
   {
+    nome: "reddit: the_cyber",
+    link: "https://old.reddit.com/user/basement_shaman/m/the_cyber/",
+  },
+  {
     nome: "YouTube",
     link: "https://www.youtube.com/",
   },
