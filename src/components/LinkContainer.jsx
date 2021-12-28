@@ -63,6 +63,10 @@ const whatever = [
     link: "https://old.reddit.com/user/basement_shaman/m/the_cyber/",
   },
   {
+    nome: "buff forums",
+    link: "https://www.dotabuff.com/forums/general",
+  },
+  {
     nome: "YouTube",
     link: "https://www.youtube.com/",
   },
