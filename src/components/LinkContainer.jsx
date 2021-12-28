@@ -67,6 +67,14 @@ const whatever = [
     link: "https://www.dotabuff.com/forums/general",
   },
   {
+    nome: "raid forums",
+    link: "https://raidforums.com/",
+  },
+  {
+    nome: "sinister.ly",
+    link: "https://sinister.ly/",
+  },
+  {
     nome: "YouTube",
     link: "https://www.youtube.com/",
   },
