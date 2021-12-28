@@ -18,6 +18,11 @@ const dev = [
     tag: "senac",
   },
   {
+    nome: "Sharepoint",
+    link: "https://senacrs365.sharepoint.com/sites/FS-GETE-MATERIAIS/Documentos%20Compartilhados/Forms/AllItems.aspx",
+    tag: "senac",
+  },
+  {
     nome: "udemy",
     link: "https://udemy.com/",
     tag: "estudos",
@@ -62,8 +67,8 @@ const whatever = [
     link: "https://www.youtube.com/",
   },
   {
-    nome: "SoundCloud",
-    link: "https://soundcloud.com",
+    nome: "Netflix",
+    link: "https://netflix.com",
   },
 ];
 
@@ -71,8 +76,8 @@ function LinkContainer() {
   return (
     <div className="link-container">
       <LinkCard titulo="dev" links={dev} />
+      <LinkCard titulo="the web" links={whatever} />
       <LinkCard titulo="personal" links={person} />
-      <LinkCard titulo="w/e" links={whatever} />
     </div>
   );
 }
