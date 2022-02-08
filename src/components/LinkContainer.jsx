@@ -51,6 +51,10 @@ const person = [
     link: "https://moodle.ufrgs.br/login/login.php",
     tag: "estudos",
   },
+  {
+    nome: "tw0tter",
+    link: "https://twitter.com",
+  },
 ];
 
 const whatever = [
@@ -89,7 +93,7 @@ function LinkContainer() {
     <div className="link-container">
       <LinkCard titulo="dev" links={dev} />
       <LinkCard titulo="the web" links={whatever} />
-      <LinkCard titulo="personal" links={person} />
+      <LinkCard titulo="personal, etc" links={person} />
     </div>
   );
 }
