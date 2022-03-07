@@ -3,11 +3,6 @@ import LinkCard from "./LinkCard";
 // LINKS
 const dev = [
   {
-    nome: "Intranet",
-    link: "https://novaintranet.senacrs.com.br/senac/",
-    tag: "senac",
-  },
-  {
     nome: "Outlook",
     link: "https://outlook.office.com/mail/",
     tag: "senac",
@@ -23,9 +18,13 @@ const dev = [
     tag: "senac",
   },
   {
-    nome: "udemy",
-    link: "https://udemy.com/",
-    tag: "estudos",
+    nome: "Intranet",
+    link: "https://novaintranet.senacrs.com.br/senac/",
+    tag: "senac",
+  },
+  {
+    nome: "upwork",
+    link: "https://upwork.com/",
   },
   {
     nome: "linkedIn",
@@ -47,13 +46,18 @@ const person = [
     link: "https://autistici.org",
   },
   {
+    nome: "tw0tter",
+    link: "https://twitter.com",
+  },
+  {
     nome: "moodle",
     link: "https://moodle.ufrgs.br/login/login.php",
     tag: "estudos",
   },
   {
-    nome: "tw0tter",
-    link: "https://twitter.com",
+    nome: "udemy",
+    link: "https://udemy.com/",
+    tag: "estudos",
   },
 ];
 
