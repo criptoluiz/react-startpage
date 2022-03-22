@@ -50,6 +50,10 @@ const person = [
     link: "https://twitter.com",
   },
   {
+    nome: "novadax",
+    link: "https://novadax.com.br",
+  },
+  {
     nome: "moodle",
     link: "https://moodle.ufrgs.br/login/login.php",
     tag: "estudos",
