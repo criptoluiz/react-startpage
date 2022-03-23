@@ -9,7 +9,7 @@ const dev = [
   },
   {
     nome: "Bb Collab",
-    link: "https://ca.bbcollab.com/collab/ui/session/guest/722a23069dcc4822be5229649d6b2dce",
+    link: "https://ca.bbcollab.com/collab/ui/session/guest/6a0fe0668b4f4f4ba5925efba6f32347",
     tag: "senac",
   },
   {
