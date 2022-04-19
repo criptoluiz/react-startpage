@@ -79,8 +79,8 @@ const whatever = [
     link: "https://www.dotabuff.com/forums/general",
   },
   {
-    nome: "raid forums",
-    link: "https://raidforums.com/",
+    nome: "bugcrowd",
+    link: "https://www.bugcrowd.com/",
   },
   {
     nome: "sinister.ly",
